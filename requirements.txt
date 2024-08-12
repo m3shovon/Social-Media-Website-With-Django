@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 django
 django-crispy-forms
 pillow
@@ -11,3 +12,18 @@ crispy_bootstrap4
 
 
 
+=======
+django
+django-crispy-forms
+pillow
+crispy_bootstrap4
+
+
+
+
+
+
+
+
+
+>>>>>>> 2062674e8d524594799f8bd326202731a2032fac
